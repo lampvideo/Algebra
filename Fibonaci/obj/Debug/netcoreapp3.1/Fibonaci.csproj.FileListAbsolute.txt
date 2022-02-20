@@ -1,0 +1,14 @@
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.exe
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.deps.json
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.runtimeconfig.json
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.runtimeconfig.dev.json
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.dll
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.pdb
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.csproj.AssemblyReference.cache
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.AssemblyInfoInputs.cache
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.AssemblyInfo.cs
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.csproj.CoreCompileInputs.cache
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.dll
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.pdb
+C:\Git\Otus\M1\03.Algebra\Algebra\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.genruntimeconfig.cache

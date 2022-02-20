@@ -1,0 +1,14 @@
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.csproj.AssemblyReference.cache
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.AssemblyInfoInputs.cache
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.AssemblyInfo.cs
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.csproj.CoreCompileInputs.cache
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\bin\Debug\netcoreapp3.1\Prime.exe
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\bin\Debug\netcoreapp3.1\Prime.deps.json
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.json
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.dev.json
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\bin\Debug\netcoreapp3.1\Prime.dll
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\bin\Debug\netcoreapp3.1\Prime.pdb
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.dll
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.pdb
+C:\Git\Otus\M1\03.Algebra\Algebra\Prime\obj\Debug\netcoreapp3.1\Prime.genruntimeconfig.cache
